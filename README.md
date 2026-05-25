@@ -4,7 +4,7 @@ An AI-powered football chatbot running on **LlamaIndex**, **Groq**, and **Chroma
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Local Vector Database**: Scrapes, parses, chunks, and indexes Wikipedia data completely locally inside `chroma_db` using HuggingFace's `all-MiniLM-L6-v2` embeddings.
 - **FastAPI Backend Router**: High-performance API routing with custom health checking and structured retrieval.
@@ -17,7 +17,7 @@ An AI-powered football chatbot running on **LlamaIndex**, **Groq**, and **Chroma
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 football-rag-chatbot/
@@ -42,7 +42,7 @@ football-rag-chatbot/
 
 ---
 
-## 🚦 How to Setup and Run the Application
+##  How to Setup and Run the Application
 
 Follow these steps to run the full application on your local machine:
 
@@ -91,7 +91,7 @@ Navigate to **`http://localhost:3000`** in your browser. The connection badge in
 
 ---
 
-## 🗄️ Database Ingestion (Optional)
+##  Database Ingestion (Optional)
 If you ever want to expand the source URLs or force a clean database rebuild, navigate to the `backend/` folder inside your activated Python terminal and run:
 ```powershell
 python ingest.py
