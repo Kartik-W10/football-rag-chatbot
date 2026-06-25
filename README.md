@@ -1,3 +1,4 @@
+<img width="800" height="362" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9cad0662-9291-48ad-bd0e-01bda933fdbf" />
 # Football RAG Chatbot
 
 An AI-powered football chatbot running on **LlamaIndex**, **Groq**, and **ChromaDB**, built to answer complex questions about the Indian Super League (ISL), I-League, Premier League (EPL), FIFA World Cup, UEFA Champions League (UCL), and general association football rules.
